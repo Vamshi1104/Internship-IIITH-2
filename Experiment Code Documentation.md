@@ -36,3 +36,8 @@ The package mainly used for this simulation is **Canvas.** The canvas width and 
 
 **Arguments-** None
 
+- **Function-main**
+
+**What it does-** This function is used to call the above animation functions when user clicks on start button.
+
+**Arguments-** None
